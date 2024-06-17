@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Matching Tiles Game Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Matching Tiles Game is a captivating exercise in memory and strategy, where players aim to uncover pairs of matching tiles on a board. Each tile typically features a unique symbol, number, or image, and the challenge lies in remembering the positions of these tiles after they are initially revealed and subsequently hidden. Players flip over two tiles per turn, seeking matches to keep tiles face-up and advance through the game. This classic game format entertains and sharpens cognitive skills, making it popular across all age groups.
 
-## Available Scripts
 
-In the project directory, you can run:
+### Desktop View
 
-### `npm start`
+#### Login Welcome
+![Login_desc](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/29e7f31e-9484-46cb-894b-9f785082c41d)
 
-Runs the app in the development mode.\
+#### Game Start
+![game_start_desc](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/21787505-c986-4b55-beb5-4d2ece9724a3)
+
+#### Game Result
+![game_res_desc](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/65781f0f-25db-4682-9d38-c2a2d05acc0f)
+
+
+### Mobile View
+
+#### Login Welcome
+![login_mobile](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/bcd4e67e-3ea0-457e-bc95-1b9bb952dd84)
+
+#### Game Start
+![game_start_mobile](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/55aef751-1219-4183-8111-a8584f00cb6b)
+
+#### Game Result
+![game_res_mobile_full](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/223be47f-2415-4fc2-bdec-a982b0f9c9d9)
+
+
+## How to Start This Application on Your Local PC
+
+To start this application on your local PC, follow these step-by-step instructions:
+
+#### 1. Download the Code:
+- First, download the zip file containing the application code from the GitHub repository.
+
+#### 2. Unzip the File:
+- Unzip the downloaded file to access the application code.
+
+#### 3. Open with VS Code:
+- Open the unzipped folder using any code editor, such as Visual Studio Code.
+
+#### 4. npm install
+- Run the command for installing the required packages
+- if any package is getting an error like not installed or something then please install it as npm install given_package_name
+##### Sample Packages 
+- react-router-dom: - To install this package type in the terminal as npm install react-router-dom
+  
+#### 5. npm start
+- Now Run this command to start with the application
+
+It runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
