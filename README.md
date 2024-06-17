@@ -3,7 +3,7 @@
 A Matching Tiles Game is a captivating exercise in memory and strategy, where players aim to uncover pairs of matching tiles on a board. Each tile typically features a unique symbol, number, or image, and the challenge lies in remembering the positions of these tiles after they are initially revealed and subsequently hidden. Players flip over two tiles per turn, seeking matches to keep tiles face-up and advance through the game. This classic game format entertains and sharpens cognitive skills, making it popular across all age groups.
 
 
-## Play The Game 
+### Play The Game 
 https://matching-tiles-game.onrender.com/
 
 ### Desktop View
